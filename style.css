@@ -1,0 +1,21 @@
+h1 {
+background-color: black;
+color: white;
+font-size: 50px;
+}
+
+span {
+        color: rgb(89, 182, 240);
+}
+
+.projects { background-color: rebeccapurple;
+        color: white;
+        font-size: 45px;
+        text-align: center;
+        font-style: italic;}
+
+.contact {background-color: lightskyblue;
+        color: black;
+        font-size: 35px;
+        text-align: end;
+        text-decoration: underline;}
